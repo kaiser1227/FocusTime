@@ -1,0 +1,6 @@
+{
+  "name": "스마트폰 중독 방지",
+  "description": "몰입 시간을 늘리고 잠금 대상 앱을 차단하여 스마트폰 중독을 예방하는 스마트 몰입 방지 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center Shield & Focus Emblem in 66dp inner zone -->
+    <!-- Shield Outline / Fill -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M54,24 L32,32 V52 C32,66.8 41.4,80.4 54,84 C66.6,80.4 76,66.8 76,52 V32 L54,24 Z" />
+    <!-- Inner Lock & Target Circle -->
+    <path
+        android:fillColor="#FF0D47A1"
+        android:pathData="M54,40 C47.4,40 42,45.4 42,52 C42,58.6 47.4,64 54,64 C60.6,64 66,58.6 66,52 C66,45.4 60.6,40 54,40 Z M54,58 C50.7,58 48,55.3 48,52 C48,48.7 50.7,46 54,46 C57.3,46 60,48.7 60,52 C60,55.3 57.3,58 54,58 Z" />
+    <path
+        android:fillColor="#FF00B0FF"
+        android:pathData="M54,48 C51.8,48 50,49.8 50,52 C50,54.2 51.8,56 54,56 C56.2,56 58,54.2 58,52 C58,49.8 56.2,48 54,48 Z" />
+</vector>
